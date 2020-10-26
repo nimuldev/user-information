@@ -1,0 +1,32 @@
+.details{
+    display: flex;
+     
+    border-bottom: 1px solid lightgray;
+    padding: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.img{
+    height: 120px;
+    width: 100px;
+}
+.information{
+   
+    margin-left: 10px;
+ 
+   
+}
+.information h3,p{
+    margin-top: 3px;
+    margin-bottom: 5px;
+    background-color: antiquewhite;
+}
+.information button{
+    height: 30px;
+    width: 100px;
+    background-color: rgb(36, 47, 190);
+    color:white;
+    border-radius: 5px;
+    margin-left: 3px;
+    cursor: pointer;
+}
